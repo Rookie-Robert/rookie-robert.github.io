@@ -5,7 +5,7 @@
 
 main:
   - name: Biography
-    url: '#biography'
+    url: '#about'
     weight: 10
   - name: Skills
     url: '#skills'
