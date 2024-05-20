@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -184,6 +185,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
