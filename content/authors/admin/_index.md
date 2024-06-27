@@ -59,7 +59,7 @@ skills:
         icon_pack: fas
       - name: C/C++
         description: ''
-        percent: 70
+        percent: 90
         icon: c
         icon_pack: fas
       - name: Data Structures & Algorithms
